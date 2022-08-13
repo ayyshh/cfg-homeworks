@@ -17,7 +17,7 @@ generate_phrase(char, phrase)
 generate_phrase('cbacba', 'aabbccc')
 
 
-#HOMWEORK 4
+#HOMEWORK 4
 
 matrix = [
 [1,4,7,12,15,1000],
